@@ -1,12 +1,12 @@
-# 3.Nachwort-
+# 3.Nachwort
 
 # Dirty Leaf 🍁
 
 The life of Brian 
 
-#A
+# A
 
-.ADAC
+## .ADAC
 
 Wir bestätigen den Eingang Ihrer E-Mail.
 
@@ -26,7 +26,7 @@ https://www.adac.de/impressum-ev/
 Tipp: Sie können Ihre ADAC Mitgliedschaft und Verträge bequem online einsehen und verwalten – in Ihrem persönlichen Portal „Mein ADAC“.
 Alles auf einen Klick – www.adac.de/kundenportal
 
-.AG Amtsgericht Mönchengladbach-Rheydt
+## .AG Amtsgericht Mönchengladbach-Rheydt
 
 Sehr geehrte Absenderin, sehr geehrter Absender,
  
@@ -44,13 +44,13 @@ Der Direktor des Amtsgerichts
 Mönchengladbach-Rheydt
 Dr. Kral
 
-@justiz.nrw.de
+### @justiz.nrw.de
 
 Besonderer Hinweis für den elektronischen Rechtsverkehr mit Strafverfolgungsbehörden und Strafgerichten:
 Die Einreichung einer Strafanzeige und/oder eines Strafantrags bei einer Staatsanwaltschaft oder einem Amtsgericht ist nicht formgebunden und deshalb grundsätzlich auch per E-Mail möglich.| Die Nutzung der oben genannten sicheren Übermittlungswege bietet jedoch den Vorteil, dass Ihre persönlichen Daten geschützt sind und die Einreichung rechtssicher dokumentiert wird. Sollten Sie sich dennoch für eine Übermittlung per E-Mail entscheiden, geben Sie bitte möglichst Ihren vollständigen Namen, Ihre Adresse und eine Telefonnummer für Rückfragen an.
 Im Übrigen müssen Sie damit rechnen, dass mittels E-Mail eine rechtssichere Übermittlung nicht gewährleistet ist.
 
-.ALLIANZ 
+## .ALLIANZ 
  Liebe Kundin, lieber Kunde,
 
 vielen Dank für Ihre Nachricht. Wir werden uns so schnell wie möglich um Ihr Anliegen kümmern.
@@ -62,7 +62,7 @@ Ihre Allianz
 Allianz Deutschland AG - USt-IdNr: DE 814 580 981 Finanz- und Versicherungsleistungen i.S.d. UStG / MwStSystRL sind von der Umsatzsteuer befreit.
 Pflichtangaben unter dem Link zur Impressum-Informationsseite von Allianz Deutschland: https://www.allianz.de/impressum/
 
-.Apple
+## .Apple
 Hallo,
 dein iCloud-Speicher ist voll. Da du deinen Speicherplan überschritten hast, wird von deinen Dokumenten, Kontakten sowie Gerätedaten kein Backup mehr in iCloud erstellt. Fotos und Videos werden nicht in iCloud Fotos hochgeladen. iCloud Drive und iCloud-fähige Apps werden nicht auf all deinen Geräten aktualisiert.
 Um diese iCloud-Dienste weiterhin nutzen zu können, musst du auf iCloud+ upgraden oder den von dir genutzten Speicherplatz reduzieren.
@@ -70,9 +70,9 @@ Auf iCloud+ mit 50 GB für 0,99 € pro Monat upgraden
 Mit freundlichen Grüßen
 Das iCloud-Team
 
-#B
+# B
 
-.BUNDESPOLIZEI 
+## .BUNDESPOLIZEI 
 
 Sehr geehrte/r Frau/Herr ,
 
@@ -84,7 +84,7 @@ Ihre Bundespolizei
 
 (Dies ist eine automatisch generierte Nachricht, bitte antworten Sie nicht an diesen Absender.)
 
-.BUNDESREGIERUNG 
+## .BUNDESREGIERUNG 
 
 Il tuo messaggio non è stato recapitato a wolfgang.schmidt@bundesregierung.de perché l'indirizzo risulta inesistente o non può ricevere email.
 
@@ -92,7 +92,7 @@ Il tuo messaggio non è stato recapitato a wolfgang.schmidt@bundesregierung.de p
 # C
 
 
-.COMMERZBANK 
+## .COMMERZBANK 
 
 Guten Tag, 
  
@@ -124,7 +124,7 @@ Datenschutzhinweise: https://www.commerzbank.de/datenschutzhinweise
  
 Online-Kontakt: https://www.commerzbank.de
 
-——
+## ——
 Sehr geehrter Herr ,
 
 wir freuen uns sehr, dass Sie sich für ein TagesgeldKonto der Commerzbank entschieden haben.
@@ -150,9 +150,9 @@ Online-Kontakt https://www.commerzbank.de
 Wenn Sie nicht der korrekte Empfänger dieser E-Mail sind, dann betrachten Sie den Inhalt dieser E-Mail als gegenstandslos. 
 Sie müssen nichts unternehmen oder reagieren. Bitte löschen Sie diese E-Mail.
 
-#D
+# D
 
-.DEUTSCHE POST
+## .DEUTSCHE POST
 
 Guten Tag ,
  
@@ -184,7 +184,7 @@ Vorstand: Dr. Tobias Meyer, Vorsitzender; Oscar de Bok, Pablo Ciano, Nikola Hagl
 Vorsitzender des Aufsichtsrates: Dr. Nikolaus von Bomhard
  
 Dies ist eine Nachricht der Deutschen Post AG und kann vertrauliche, firmeninterne Informationen enthalten. Sie ist ausschließlich für die oben adressierten Empfänger bestimmt. Sind Sie nicht der beabsichtigte Empfänger, bitten wir Sie, den Sender zu informieren und die Nachricht sowie deren Anhänge zu löschen. Unzulässige Veröffentlichungen, Verwendungen, Verbreitung, Weiterleitung sowie das Drucken oder Kopieren dieser E-Mail und ihrer verknüpften Anhänge sind strikt untersagt.
-—-
+## —-
 Guten Tag,
  
 vielen Dank für Ihre Nachricht.
@@ -197,11 +197,11 @@ Für Ihren Datenschutz: Wir weisen darauf hin, dass wir Ihre Daten zur Bearbeitu
 
 Deutsche Post AG; Sitz Bonn; Registergericht Bonn; HRB 6792; Vorstand: Dr. Frank Appel, Vorsitzender; Pablo Ciano, Oscar de Bok, Nikola Hagleitner, Melanie Kreis, Dr. Tobias Meyer, Dr. Thomas Ogilvie, John Pearson, Tim Scharwath; Vorsitzender des Aufsichtsrates: Dr. Nikolaus von Bomhard
 
-#E
+# E
 
-#F
+# F
 
-.FIDOR BANK
+## .FIDOR BANK
 
 Guten Tag Herr,
 
@@ -238,11 +238,13 @@ Handelsregister: Amtsgericht München, HRB 149 656 / Bankleitzahl: 700 222 00
 
 Vorstand: Boris Joseph, Pascal Cirelli
 
-#G
+# G
 
-#H
+## .github
 
-.HANNOVERSCHE 
+# H
+
+## .HANNOVERSCHE 
 
 Vielen Dank für Ihre E-Mail und Ihre Anfrage, deren Eingang wir hiermit bestätigen.
 
@@ -265,7 +267,7 @@ Sitz der Gesellschaft: Hannover, www.hannoversche.de
 Bitte denken Sie an die Umwelt, bevor Sie diese E-Mail ausdrucken
 
 
-.Hanseatic Bank
+## .Hanseatic Bank
 Guten Tag Herr,
 
 prima, dass Sie sich bei uns melden.
@@ -314,9 +316,8 @@ Postfach 57 02 40, 22771 Hamburg
 
 Telefon: 040 646 03-0
 E-Mail: info@hanseaticbank.de
- :—
 
-—:
+## —
 
 Guten Tag Herr,
 
@@ -390,9 +391,8 @@ Postfach 57 02 40, 22771 Hamburg
 
 Telefon: 040 646 03-0
 E-Mail: info@hanseaticbank.de
- :—
 
-—:
+## —
 
 Guten Tag Herr,
 
@@ -451,9 +451,8 @@ Postfach 57 02 40, 22771 Hamburg
 
 Telefon: 040 646 03-0
 E-Mail: info@hanseaticbank.de
- :—
 
-—:
+## —
 
 Guten Tag Herr,
 
@@ -497,10 +496,9 @@ Fuhlsbüttler Straße 437, 22309 Hamburg
 Postfach 57 02 40, 22771 Hamburg
 
 Telefon: 040 646 03-0
-E-Mail: info@hanseaticbank.de
- 
+E-Mail: info@hanseaticbank.de 
 
-
+## —
 
 Guten Tag Herr,
 
@@ -558,8 +556,10 @@ Postfach 57 02 40, 22771 Hamburg
 Telefon: 040 646 03-0
 E-Mail: info@hanseaticbank.de
 
-#I
-.ING-DiBa AG
+# I
+
+
+## .ING-DiBa AG
 Sehr geehrter Herr,
 
 vielen Dank für Ihre Nachricht.
