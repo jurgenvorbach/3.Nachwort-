@@ -1,8 +1,21 @@
 # 3.Nachwort
 
+## Antwortschreiben
+die man so erhalten kann, aber nicht muss. nur für den Fall dass man in Stuttgart die vorgeschlagenen Stellen auslässt, sich nicht bewirbt.
+* ein Grund zu gehen
+* und weitere:
+* - Schäden in Wohnung
+  - Schäden in Garage
+  - fehlende Produkte in Regalen, Supermärkte
+  - dyn Preisschilder mit kurzfristig höheren Preisen
+  - unterwegs: Hotels überteuert, booking bietet an selektiv oder gar nicht
+
 # Dirty Leaf 🍁
 
-The life of Brian 
+- The life of Brian
+
+— A B C D E F G H I J K L M M O P Q R S T U V W XYZ
+——
 
 # A
 
@@ -652,7 +665,7 @@ d vernichten Sie diese E-Mail. Das unerlaubte Kopieren sowie die unbefugte Weite
 icht gestattet.
 
 ---------------------------------------------------------------
-——
+## ——
 Guten Tag Herr,
 
 Ihr Konto haben wir gelöscht und das Guthaben in Höhe von XX.xxx,XX Euro beim Amtsgericht Frankfurt am Main hinterlegt. Das Aktenzeichen lautet: 2 XX xxxx/xxxx X
@@ -695,7 +708,7 @@ d vernichten Sie diese E-Mail. Das unerlaubte Kopieren sowie die unbefugte Weite
 icht gestattet.
 
 ---------------------------------------------------------------
-—
+## -—
 Sehr geehrter Herr,
 
 vielen Dank für die uns zugeschickten Unterlagen.
@@ -711,8 +724,8 @@ Ihr Team Anfragen und Beschwerden
 ING-DiBa AG
 60628 Frankfurt am Main
 www.ing.de
-——
-Sehr geehrter Herr Vorbach,
+## ——
+Sehr geehrter Herr ,
 
 wir haben Ihre Konten am 09.02.2022 schriftlich gekündigt und das Schreiben an Ihre französische Anschrift geschickt.
 
@@ -787,7 +800,7 @@ icht gestattet.
 ATTENTION:
 The information in this e-mail is confidential and only meant for the intended recipient. If you are not the intended recipient, don't use or disclose it in any way. Please let the sender know and delete the message immediately.
 ------------------------------------------------------------------------------------------------------
-—
+## -—
 Guten Tag,
 
 Ihre E-Mail ist bei uns eingetroffen. Wie schön, dass Sie an uns gedacht haben!
@@ -811,7 +824,7 @@ ING-DiBa AG
 60628 Frankfurt am Main
 info@ing.de
 www.ing.de
-—
+## -—
 Guten Tag,
 
 danke für Ihre Nachricht. Per E-Mail oder über unser Kontaktformular können wir Ihren Auftrag leider nicht entgegennehmen, das ist nicht sicher genug.
@@ -837,7 +850,7 @@ www.ing.de
 -----Original-Nachricht-----
 
 AUS DATENSCHUTZGRÜNDEN HABEN WIR JEDE ZIFFER IN IHRER ORIGINAL-NACHRICHT DURCH EIN X ERSETZT.
-——
+## ——
 Guten Tag,
 
 Wir wollen Ihr Anliegen so schnell wie möglich beantworten. Mit Ihren Angaben können wir Ihre Nachricht aber leider nicht zuordnen.
@@ -859,11 +872,11 @@ ING-DiBa AG
 60628 Frankfurt am Main
 www.ing.de
 
-#J
+# J
 
-#K
+# K
 
-.Kanzlei
+## .Kanzleien Deutschland
 
 Sehr geehrter Herr,
  
@@ -888,15 +901,14 @@ Fax: +49 (89) 85 63 407-11
 Email: baumgart@schaedler-recht.de
 www.schaedler-recht.de
 
-#L 
+# L 
 
-#M
+# M
 
-#N
+# N
 
-#O
-
-.Ombudsman 
+# O
+## .Ombudsman 
 
 Sehr geehrte Damen und Herren,
 
@@ -924,7 +936,7 @@ Bundesverband deutscher Banken e.V., Burgstr. 28, 10178 Berlin, Germany
 Eingetragen in das Lobbyregister mit der Nummer R001458.
 Die Interessenvertretung wird auf Basis der Verhaltenskodizes des Lobbyregistergesetzes und des Bundesverbandes deutscher Banken betrieben.
 
-==
+## ——
 Guten Tag,
 
 vielen Dank für Ihre Nachricht.
@@ -969,7 +981,7 @@ Bundesverband deutscher Banken e.V., Burgstr. 28, 10178 Berlin, Germany
 Eingetragen in das Lobbyregister mit der Nummer R001458.
 Die Interessenvertretung wird auf Basis der Verhaltenskodizes des Lobbyregistergesetzes und des Bundesverbandes deutscher Banken betrieben.
 
-==
+## ——
 Guten Tag,
  
 vielen Dank für Ihre Nachricht.
@@ -1013,9 +1025,8 @@ Bundesverband deutscher Banken e.V., Burgstr. 28, 10178 Berlin, Germany
 Eingetragen in das Lobbyregister mit der Nummer R001458.
 Die Interessenvertretung wird auf Basis der Verhaltenskodizes des Lobbyregistergesetzes und des Bundesverbandes deutscher Banken betrieben.
 
-#P
-
-.PSD BANK RHEINNECKARSAAR
+# P
+## .PSD BANK RHEINNECKARSAAR
 
 Sehr geehrter Herr, 
 
@@ -1052,7 +1063,7 @@ PSD Bank RheinNeckarSaar eG Deckerstraße 37-39, 70372 StuttgartVorstand: Stefan
 
 Diese E-Mail einschließlich ihrer Anhänge ist vertraulich und ist allein für den Gebrauch durch den vorgesehenen Empfänger bestimmt. Dritten ist das Lesen, Verteilen oder Weiterleiten dieser E-Mail sowie jedwedes Vertrauen auf deren Inhalt untersagt. Wir  bitten, eine fehlgeleitete E-Mail unverzüglich vollständig zu löschen und uns eine Nachricht zukommen zu lassen.
 
-—
+## ——
 
 Vielen Dank für Ihre E-Mail. Dies ist eine automatisch erstellte Mitteilung und Sie erhalten dann weitere Nachrichten von uns.
 
@@ -1071,11 +1082,10 @@ Sitz der Bank: Stuttgart
 
 Diese E-Mail einschließlich ihrer Anhänge ist vertraulich und ist allein für den Gebrauch durch den vorgesehenen Empfänger bestimmt. Dritten ist das Lesen, Verteilen oder Weiterleiten dieser E-Mail sowie jedwedes Vertrauen auf deren Inhalt untersagt. Wir bitten, eine fehlgeleitete E-Mail unverzüglich vollständig zu löschen und uns eine Nachricht zukommen zu lassen.
 
-#Q
+# Q
 
-#R 
-
-.Rechtsanwalt 
+# R 
+## .Rechtsanwalt 
 
 Vielen Dank für Ihre Nachricht, wir werden diese sobald als möglich bearbeiten und beantworten.
  
@@ -1096,9 +1106,8 @@ NNNNN München
 Tel. 089/54 XX XX XX
 Fax 089/54 XX XX XX
 
-#S 
-
-.Spiegel.de
+# S 
+## .Spiegel.de
 Liebe Leserin, lieber Leser,
 
 danke für Ihre Nachricht und Ihr Interesse am SPIEGEL.
@@ -1139,14 +1148,17 @@ Besonderer Hinweis für den elektronischen Rechtsverkehr mit Strafverfolgungsbeh
 Die Einreichung einer Strafanzeige und/oder eines Strafantrags bei einer Staatsanwaltschaft oder einem Amtsgericht ist nicht formgebunden und deshalb grundsätzlich auch per E-Mail möglich.| Die Nutzung der oben genannten siche ren Übermittlungswege bietet jedoch den Vorteil, dass Ihre persönlichen Daten geschützt sind und die Einreichung rechtssi-cher dokumentiert wird. Sollten Sie sich dennoch für eine Übermittlung per E-Mail entscheiden, geben Sie bitte möglichst Ihren vollständigen Namen, Ihre Adresse und eine Telefonnummer für Rückfragen an.
 Im Übrigen müssen Sie damit rechnen, dass mittels E-Mail eine rechtssichere Übermittlung nicht gewährleistet ist.
 
-#T 
+# T 
+## .Telekom Deutsche
 
-#U 
+# U 
 
-#V 
+# V 
 
-#W 
+# W 
 
-#XYZ
+# XYZ
 
-——— BUNDESREGIERUNG ———
+# ——— BUNDESREGIERUNG ———
+## :
+### .
