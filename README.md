@@ -255,6 +255,24 @@ Vorstand: Boris Joseph, Pascal Cirelli
 
 ## .github
 
+Message blocked
+Your message to support@github.com has been blocked. See technical details below for more information.
+LEARN MORE
+The response from the recipient enterprise administrator was:
+The user or domain that you are sending to (or from) has a policy that prohibited the mail that you sent. Please contact your domain administrator for further details. For more information, go to https://support.google.com/a/answer/172179
+
+## .google
+Verify that it's you
+Google needs to verify some info about your device or phone number before you can continue. This helps keep you and others safe online by preventing abuse from computer programs or bots.
+nnnn.nnnnnn@gmail.com
+Do a device check
+Use this phone to verify. Taking these steps helps keep Google services safe.
+
+
+Verifying your phone number
+Google needs to verify your device or phone number for security reasons.
+Your phone will open an SMS message with a code that you need to send to verify your phone. Your operator may charge for SMS messages sent for verifications. Standard SMS rates apply.
+
 # H
 
 ## .HANNOVERSCHE 
